@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Nicoliene",
+                "last": "Prudon"
+            },
+            "location": {
+                "street": {
+                    "number": 5458,
+                    "name": "In de O"
+                },
+                "city": "Oud Annerveen",
+                "state": "Limburg",
+                "country": "Netherlands",
+                "postcode": "6514 JL",
+                "coordinates": {
+                    "latitude": "34.8566",
+                    "longitude": "4.8660"
+                },
+                "timezone": {
+                    "offset": "+6:00",
+                    "description": "Almaty, Dhaka, Colombo"
+                }
+            },
+            "email": "nicoliene.prudon@example.com",
+            "login": {
+                "uuid": "b84c8ca7-38b5-4e66-93bc-510ac5d2e84b",
+                "username": "smallgoose157",
+                "password": "radiohea",
+                "salt": "HRv5yzMn",
+                "md5": "4715e64a9c2438ccd6ab6e3accfc66ea",
+                "sha1": "6f66bb9ae061c4a132a20fd5c1ef1edfd70f91df",
+                "sha256": "aa2a4c5a3918332d75a3e04c689120c3a97a339db61030ca79cb90f0dc0dfd2c"
+            },
+            "dob": {
+                "date": "1948-02-26T22:50:21.040Z",
+                "age": 75
+            },
+            "registered": {
+                "date": "2015-11-02T04:26:09.602Z",
+                "age": 7
+            },
+            "phone": "(0609) 938107",
+            "cell": "(06) 83441800",
+            "id": {
+                "name": "BSN",
+                "value": "76702497"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
+            },
+            "nat": "NL"
+        }
+    ],
+    "info": {
+        "seed": "85b45ca823ffcb6b",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
